@@ -2,7 +2,7 @@
 Title: Homework 2, part 1. Gradient Descent
 Author: Timur Kasimov (Grinnell, 2025)
 Data Created: February 20, 2024
-Date Updated: February 20, 2024
+Date Updated: February 27, 2024
 
 Purpose: Implement and test a gradient descent method
 
